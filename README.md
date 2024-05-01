@@ -1,10 +1,14 @@
 # MR-MEF Control Signals for EV Charging
 
+[![DOI](https://zenodo.org/badge/794467317.svg)](https://zenodo.org/doi/10.5281/zenodo.11096812)
+
 This repository is associated with the paper: 
 
 Powell, Siobhan, Sonia Martin, Ram Rajagopal, Inês M. L. Azevedo, and Jacques de Chalendar. "Future-proof rates for controlled electric vehicle charging: comparing multi-year impacts of different emission factor signals." Energy Policy (2024).
 
-Please cite this code. 
+Please cite this code:
+
+Siobhan Powell, Sonia Martin, Ram Rajagopal, Inês M. L. Azevedo, & Jacques de Chalendar. (2024). SiobhanPowell/mrmef-evcontrol-paper: (v1.0.1). Zenodo. doi: 10.5281/zenodo.11096812
 
 ### About the Paper
 
